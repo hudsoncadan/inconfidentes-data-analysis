@@ -4,7 +4,3 @@ Consulte o arquivo [Inconfidentes Data Analysis Notebook.ipynb](https://github.c
 
 ## 1.1. Os Dados
 Os dados foram extraídos de relatórios publicados mensalmente no site oficial da Prefeitura de Inconfidentes/MG.
-
-## 1.2. Extração dos Dados
-Os relatórios estão em formato PDF. \
-Consulte o [passo-a-passo da extração dos dados](https://github.com/hudsoncadan/extract-data-from-pdf).
